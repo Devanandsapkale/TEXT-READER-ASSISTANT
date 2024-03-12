@@ -4,10 +4,11 @@
     font-family: 'Poppins' sans-serif;
     box-sizing: border-box;
 }
+
 .hero{
     width:100%;
     min-height: 100vh;
-    background:linear-gradient(45deg,#9381ff,#b8b8ff);
+    background:linear-gradient(45deg,#04094a,#490d61);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -41,7 +42,7 @@ textarea::placeholder{
     color: rgb(178, 175, 175);
 }
 .row{
-    width: 600px;
+    width: 660px;
     display: flex;
     align-items: center;
     gap: 10px;
